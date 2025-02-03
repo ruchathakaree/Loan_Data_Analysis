@@ -6,10 +6,15 @@ Dataset: Loan dataset representing over 10,000 loan records.
 Key Feature :
 
 Loan Details: Loan ID, Product Type, Loan Amount, Start and End Dates, Interest Rate.
+
 Customer Information: Customer Age, Location, Credit Score.
+
 Loan Metrics: Loan Status, Repayment Frequency, Late Payments, Repayment History.
+
 Analyze Loan Performance: Understand loan distribution, repayment trends, and default rates.
+
 Identify Key Metrics: Highlight total loan amount, default rates, and repayment frequencies.
+
 Enhance Decision-Making: Provide data-driven recommendations to optimize lending strategies and reduce financial risks.
 
 Workflow : 
